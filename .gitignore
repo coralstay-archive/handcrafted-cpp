@@ -1,0 +1,72 @@
+# 저작권이 있는 교안 원문 및 그 내용을 옮겨 담은 실습 콘텐츠 (버전관리 제외)
+/contents/
+/docs/
+/practice-01/
+/practice-02/
+/practice-03/
+/stone
+/stone/
+/content_data/
+/content_data
+scripts/*_data/
+*_data/
+# 외부 라이브러리 소스로 가는 심볼릭 링크 (scripts/generate_external_libs_index.py 가 생성)
+/external_libs/
+
+# CMake / 빌드 산출물
+cmake-build-*/
+build/
+out/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+Testing/
+compile_commands.json
+Makefile
+
+# 컴파일 산출물
+*.o
+*.obj
+*.out
+*.exe
+*.a
+*.lib
+*.so
+*.so.*
+*.dylib
+*.dll
+*.pdb
+*.ilk
+
+# 확장자 없는 실행파일 (in-source 빌드로 루트에 생길 경우 방어용)
+/stoneCpp
+/bin/
+
+# IDE / 에디터
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python 캐시
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+practice/**/README.md
+practice/**/assets/
+practice/**/.skeleton/
+
+# 공개 저장소 제외 (TASK-16, 2026-10-31)
+# practice/는 도서 예제 원문(Professional C++, Extreme C, 종만북, 큰돌 강의 등), googletest 사본,
+# 도서를 옮겨 적는 실습 스켈레톤과 입력 데이터를 담고 있어 통째로 공개하지 않는다(로컬에는 유지).
+/practice/
+*.pdf
+*.epub
+*.eps
+*.ps
+.opensource/

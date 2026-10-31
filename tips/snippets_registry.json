@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "snippets": {
+    "practice/linux/01_tlpi_system_programming/01_history_and_standards/main.cpp::solve_kata": {
+      "code_sha256": "833ca12e4bcef62521711145277669b5afe7589a0d44a5a97b51daa24868cf8b",
+      "description": "01_history_and_standards",
+      "file_path": "practice/linux/01_tlpi_system_programming/01_history_and_standards/main.cpp",
+      "language": "cpp",
+      "line_number": 1,
+      "reviewer": "",
+      "status": "PENDING_REVIEW",
+      "symbol": "solve_kata",
+      "verified_at": "",
+      "verified_sha256": ""
+    },
+    "practice/linux/01_tlpi_system_programming/02_fundamental_concepts/main.cpp::solve_kata": {
+      "code_sha256": "833ca12e4bcef62521711145277669b5afe7589a0d44a5a97b51daa24868cf8b",
+      "description": "02_fundamental_concepts",
+      "file_path": "practice/linux/01_tlpi_system_programming/02_fundamental_concepts/main.cpp",
+      "language": "cpp",
+      "line_number": 1,
+      "reviewer": "",
+      "status": "PENDING_REVIEW",
+      "symbol": "solve_kata",
+      "verified_at": "",
+      "verified_sha256": ""
+    },
+    "practice/linux/01_tlpi_system_programming/56_sockets_introduction/main.cpp::solve_kata": {
+      "code_sha256": "833ca12e4bcef62521711145277669b5afe7589a0d44a5a97b51daa24868cf8b",
+      "description": "56_sockets_introduction",
+      "file_path": "practice/linux/01_tlpi_system_programming/56_sockets_introduction/main.cpp",
+      "language": "cpp",
+      "line_number": 1,
+      "reviewer": "",
+      "status": "PENDING_REVIEW",
+      "symbol": "solve_kata",
+      "verified_at": "",
+      "verified_sha256": ""
+    },
+    "practice/linux/01_tlpi_system_programming/58_sockets_fundamentals_of_tcp_ip/main.cpp::solve_kata": {
+      "code_sha256": "833ca12e4bcef62521711145277669b5afe7589a0d44a5a97b51daa24868cf8b",
+      "description": "58_sockets_fundamentals_of_tcp_ip",
+      "file_path": "practice/linux/01_tlpi_system_programming/58_sockets_fundamentals_of_tcp_ip/main.cpp",
+      "language": "cpp",
+      "line_number": 1,
+      "reviewer": "",
+      "status": "PENDING_REVIEW",
+      "symbol": "solve_kata",
+      "verified_at": "",
+      "verified_sha256": ""
+    },
+    "practice/stone-lecture/01_문법_STL/03_타입과_타입변환/12_string_split_콤마/main.cpp::split": {
+      "code_sha256": "cf3334986b04b1ff637bc3b89ce88c1cc16955d3d40df4b8ef39aeb06fb43055",
+      "description": "문자열을 delimiter 기준으로 쪼개는 함수",
+      "file_path": "practice/stone-lecture/01_문법_STL/03_타입과_타입변환/12_string_split_콤마/main.cpp",
+      "language": "cpp",
+      "line_number": 36,
+      "reviewer": "",
+      "status": "PENDING_REVIEW",
+      "symbol": "split",
+      "verified_at": "",
+      "verified_sha256": ""
+    }
+  }
+}
